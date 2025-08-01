@@ -46,7 +46,7 @@ Deployed and monitored a testnet validator node on Solana, integrating real-time
 
 ### 🛡️ Azure Honeypot & Threat Map  
 Visualize attacks in real-time with KQL dashboards and SIEM automation.  
-[🔗 View Project](https://github.com/yourusername/azure-honeypot-siem)
+[🔗 View Project](https://github.com/AKhai47/azure-honeypot-siem)
 
 ### ⚙️ Solana Validator Security Lab  
 Simulate validator node ops and attack vectors for blockchain security research.  
