@@ -36,9 +36,9 @@ Deployed and monitored a testnet validator node on Solana, integrating real-time
 
 ## 🎓 Education
 
-**B.S. Cybersecurity** – Weber State University (Expected 2027) 
-A.S Cybersecurity** - Nassau Community College (2025)
-Certifications:** (e.g. CompTIA Security+(pursuing))
+**B.S. Cybersecurity** – Weber State University (Expected 2027)  
+**A.S. Cybersecurity** – Nassau Community College (2025)  
+**Certifications:** (e.g. CompTIA Security+ *(pursuing)*)
 
 ---
 
