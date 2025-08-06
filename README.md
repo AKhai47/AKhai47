@@ -1,14 +1,15 @@
 #  Anthony Khaimov   
 Cybersecurity Student | AI & Blockchain Security | Cloud Labs  
 
-Hello! 👋 I'm Anthony Khaimov, a cybersecurity student passionate about AI-driven defense systems, blockchain security, and  simulations. I build cloud-native security environments and smart automation tools to explore real-world threats and innovative defenses. I am currently a junior in college and I am using this to docment my journey thrpugh this career and personal projects I like to work on. 
-
+Hello! 👋 I'm Anthony Khaimov, a cybersecurity student passionate about AI-driven defense systems, blockchain security, and  simulations. I build cloud-native security environments and smart automation tools to explore real-world threats and innovative defenses.
 ---
 
 ##  About Me
+ 
+ I am currently a junior in college and I am using this to docment my journey thrpugh this career and personal projects I like to work on. 
 
 [LinkedIn](https://www.linkedin.com/in/anthony-khaimov/)  
-[Email](anthonykhaimovcyb@gmail.com)
+
 
 ---
 
