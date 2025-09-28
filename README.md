@@ -52,8 +52,7 @@ Visualize attacks in real-time with KQL dashboards and SIEM automation.
 
 ###  Solana Validator Security Lab  
 Simulate validator node ops and attack vectors for blockchain security research.  
-[🔗 Coming Soon)
-
+[🔗 View Project](https://github.com/AKhai47/Solana-Validator-Security-Project)
 ###  AI + Cybersecurity Agents  
 Prototype AI agents for SOC workflows and phishing defense.  
 [🔗 Coming Soon]
