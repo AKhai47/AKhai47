@@ -29,7 +29,7 @@ Deployed and monitored a testnet validator node on Solana, integrating real-time
 
 - **Cybersecurity:** SIEM, Threat Detection, Honeypots
 - **Cloud & Infra:** Azure, VMs, Firewalls, Log Analytics  
-- **Languages:** Python, Bash, JavaScript   
+- **Languages:** Python, Bash, Java 
 - **Tools:** Sentinel, KQL, Wireshark, Metasploit, Splunk  
 - **AI/ML:** LLM Security, Prompt Engineering  
 - **Blockchain:** Solana, Wallet Security, Validator Ops
