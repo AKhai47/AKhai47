@@ -21,6 +21,7 @@ Built an end-to-end simulation of brute-force attacks using VMs, NSGs, KQL queri
 
 **Solana Validator Simulation**  
 Deployed and monitored a testnet validator node on Solana, integrating real-time metrics and simulating attack surfaces for educational research.  
+[🔗 GitHub Repo](https://github.com/AKhai47/Solana-Validator-Security-Project)
 
 ---
 
