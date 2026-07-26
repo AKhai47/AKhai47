@@ -58,6 +58,11 @@ Prototype AI agents for SOC workflows and phishing defense.
 [🔗 Coming Soon]
 
 ---
+## Side Projects
+Visualize the Universe at any given moment.
+[🔗 View Project](https://github.com/AKhai47/skyrender)
+
+---
 
 ##  Let’s Connect
 
