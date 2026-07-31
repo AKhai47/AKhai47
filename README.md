@@ -6,7 +6,7 @@ Hello! 👋 I'm Anthony Khaimov, a cybersecurity student passionate about AI-dri
 
 ##  About Me
  
- I am currently a junior in college and I am using this to docment my journey through this career and personal projects I like to work on. 
+ I am currently a senior in college and I am using this to docment my journey through this career and personal projects I like to work on. 
 
 [LinkedIn](https://www.linkedin.com/in/anthony-khaimov/)  
 
@@ -29,8 +29,8 @@ Deployed and monitored a testnet validator node on Solana, integrating real-time
 
 - **Cybersecurity:** SIEM, Threat Detection, Honeypots
 - **Cloud & Infra:** Azure, VMs, Firewalls, Log Analytics  
-- **Languages:** Python, Bash, Java 
-- **Tools:** Sentinel, KQL, Wireshark, Metasploit, Splunk  
+- **Languages:** Python, Bash 
+- **Tools:** Sentinel, Wireshark, Metasploit, Splunk  
 - **AI/ML:** LLM Security, Prompt Engineering  
 - **Blockchain:** Solana, Wallet Security, Validator Ops
 
@@ -66,7 +66,7 @@ Visualize the Universe at any given moment.
 
 ##  Let’s Connect
 
-I'm open to internships, collaborations, and new ideas. If you're building in cybersecurity, AI, or blockchain, I’d love to chat.
+If you're building in cybersecurity, AI, or blockchain, I’d love to chat.
 
 Email: anthonykhaimovcyb@gmail.com
 
